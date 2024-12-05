@@ -23,7 +23,7 @@ I enjoy modeling new use cases, building app UX's, and auditing models for best 
 
 ## 🚀 Completed Projects
 
-You're welcome to try out my Anaplan App - Model Remapper utility. I designed it to address the burden of having to remap app pages to different DEV, TEST, PROD, or copied models when dealing with large apps that have dozens or hundreds of pages. Use the script with your browser's developer tools and simply replace the workspace and model names as indicated by the comments, and then run the script. Instructions for Chrome are provided in the app's readme file.
+You're welcome to try out my Anaplan App - Model Remapper utility. I designed it to address the burden of having to remap app pages to different DEV, TEST, PROD, or copied models when dealing with large apps that have dozens or hundreds of pages. Use the script with your browser's developer tools and simply replace the workspace and model names as indicated by the comments, and then run the script. 
 
 <!---
 ---
